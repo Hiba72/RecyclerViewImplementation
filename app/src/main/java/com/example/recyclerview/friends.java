@@ -1,3 +1,5 @@
+package com.example.recyclerview;
+
 public class friends {
     private int id;
     private int imageID;
